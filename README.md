@@ -12,15 +12,15 @@ From time to time, a special block appears (each next one is larger), which retu
 Optionally, to use sounds in the game, the system should have access to OpenAL libraries (http://www.openal.org). Most likely, these libraries are trying to connect to the network, which I have no influence on.
 
 
-<a href="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/M/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2001.jpg">
+<a href="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2001.jpg">
   <img src="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/M/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2001%20m.jpg">
 </a>
 
-<a href="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/M/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2002.jpg">
+<a href="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2002.jpg">
   <img src="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/M/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2002%20m.jpg">
 </a>
 
-<a href="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/M/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2003.jpg">
+<a href="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2003.jpg">
   <img src="https://github.com/jacek-mulawka/Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia/blob/main/Gallery/M/Strzelanka%20Siekanka%20z%20Eris%20Kallisti%20Dyskordia%2003%20m.jpg">
 </a>
 
