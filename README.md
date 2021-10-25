@@ -1,7 +1,7 @@
 # Strzelanka-Siekanka-z-Eris-Kallisti-Dyskordia
 
 Gra polega na strzelaniu do opadających brył, które po trafieniu mogą się rozpaść na kilka mniejszych części. Część brył zawiera różne modyfikatory. Mogą one spowalniać, przyśpieszać opadanie brył, wpływać na częstotliwość, z którą się pojawiają jak również czasowo wzmocnić parametry strzałów. Można również, rozbijać bryły mieczem.
-Co pewien czas pojawia się bryła specjalna (każda następna jest większa) która, powraca na ekran i sama nie odlatuje. Opcję te można wyłączyć w ustawieniach.
+Co pewien czas pojawia się bryła specjalna (każda następna jest większa) która, powraca na ekran i sama nie odlatuje. Opcję tę można wyłączyć w ustawieniach.
 
 Opcjonalnie aby korzystać z dźwięków w grze system powinien mieć dostęp do bibliotek OpenAL (http://www.openal.org). Najprawdopodobniej biblioteki te próbują łączyć się z siecią na co nie mam wpływu.
 
