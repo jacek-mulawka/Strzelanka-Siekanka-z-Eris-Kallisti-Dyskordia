@@ -7,6 +7,8 @@ Gra zawiera uproszczone tłumaczenia na kilka wersji językowych.
 Opcjonalnie aby korzystać z dźwięków w grze system powinien mieć dostęp do bibliotek OpenAL (http://www.openal.org). Najprawdopodobniej biblioteki te próbują łączyć się z siecią na co nie mam wpływu.
 
 
+## English
+
 The game consists in shooting falling solids, which can break into several smaller parts when hit. Some solids contain various modifiers. They can slow down, accelerate the fall of the solids, affect the frequency with which they appear as well as temporarily strengthen the parameters of the shots. Player can also break the solids with a sword.
 From time to time, a special block appears (each next one is larger), which returns to the screen and does not fly away by itself. This option can be turned off in the settings.
 The game includes simplified translations into several language versions.
