@@ -643,7 +643,7 @@ var
 begin
 
   if   ( Self.element_widoczny_gl_scene_object is TGLTetrahedron )
-    or ( Self.element_widoczny_gl_scene_object is TGLCapsule )then
+    or ( Self.element_widoczny_gl_scene_object is TGLCapsule ) then
     ztr := Self.rozmiar_poziomy * 0.5 // Element jest większy niż pozostałe obiekty.
   else//if Self.element_widoczny_gl_scene_object is TGLTetrahedron then
     ztr := Self.rozmiar_poziomy;
@@ -1327,7 +1327,7 @@ begin
 
 
   if    ( not cel_f.usunac_cel )
-    //and (  not  ( cel_f.modyfikator_rodzaj in [ mr_Cele_Mniej, mr_Cele_Szybciej, mr_Cele_Wiecej, mr_Cele_Wolniej ] )  )then
+    //and (  not  ( cel_f.modyfikator_rodzaj in [ mr_Cele_Mniej, mr_Cele_Szybciej, mr_Cele_Wiecej, mr_Cele_Wolniej ] )  ) then
     and (  cel_f.modyfikator_rodzaj = mr_Brak ) then // Celów, które zawierają modyfikatory nie trzeba zestrzeliwać (jak gracz chce).
     inc( elementy_nie_zestrzelone_ilosc_g );
 
@@ -2005,7 +2005,7 @@ begin
           zti := Miecz_Kontener_GLDummyCube.Behaviours.IndexOfClass( TGLBSoundEmitter ); // -1 - brak, >= 0 zachowania.
 
           if    ( zti >= 0 )
-            and ( ActiveSoundManager() <> nil )then
+            and ( ActiveSoundManager() <> nil ) then
             TGLBSoundEmitter(Miecz_Kontener_GLDummyCube.Behaviours.Items[ zti ]).Playing := false;
 
           GetOrCreateInertia( Miecz_Kontener_GLDummyCube ).TranslationSpeed.SetToZero();
@@ -2024,7 +2024,7 @@ begin
               // Obraca ostrzem do góry.
 
               if    ( Miecz_Kontener_GLDummyCube.PitchAngle <= 90 )
-                and ( Miecz_Kontener_GLDummyCube.PitchAngle >= -90 )then
+                and ( Miecz_Kontener_GLDummyCube.PitchAngle >= -90 ) then
                 Miecz_Kontener_GLDummyCube.PitchAngle := Miecz_Kontener_GLDummyCube.PitchAngle + 1
               else//if    ( Miecz_Kontener_GLDummyCube.PitchAngle <= 90 ) (...)
                 Miecz_Kontener_GLDummyCube.PitchAngle := Miecz_Kontener_GLDummyCube.PitchAngle - 1;
@@ -3095,7 +3095,7 @@ begin
   zti := Mega_Element_Kontener_GLDummyCube.Behaviours.IndexOfClass( TGLBSoundEmitter ); // -1 - brak, >= 0 zachowania.
 
   if    ( zti >= 0 )
-    and ( ActiveSoundManager() <> nil )then
+    and ( ActiveSoundManager() <> nil ) then
     TGLBSoundEmitter(Mega_Element_Kontener_GLDummyCube.Behaviours.Items[ zti ]).Playing := false;
 
 end;//---//Funkcja Mega_Element_Zatrzymaj().
